@@ -5,7 +5,7 @@
 <h3>🔍 Explicación del comando:</h3>
 <ul>
     <li><code>subfinder</code>: Herramienta para el descubrimiento de subdominios.</li>
-    <li><code>-d onetrust.com</code>: Especifica el dominio objetivo.</li>
+    <li><code>-d dominio web</code>: Especifica el dominio objetivo.</li>
     <li><code>-all</code>: Usa todas las fuentes disponibles para maximizar la detección de subdominios.</li>
     <li><code>-o subdominios.txt</code>: Guarda los resultados en un archivo llamado <code>subdominios.txt</code>.</li>
 </ul>
